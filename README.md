@@ -1,117 +1,97 @@
-```markdown
-<div align="center">
+
+---
 
 # 🌑 𝑺𝒐𝒑𝒉𝒊𝒂 𝑭𝒆𝒓𝒏á𝒏𝒅𝒆𝒛 𝑽𝒂𝒍𝒅é𝒔
 
-### *Desarrolladora de Software • Siempre aprendiendo, siempre construyendo.*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=💻+Desarrolladora+de+Software;🚀+Full+Stack+Developer;🌙+Amante+del+código+limpio;⚡+Siempre+aprendiendo"/>
-
-</div>
+🖤 **Desarrolladora de Software**
+☾ *Siempre aprendiendo, siempre construyendo.*
 
 ---
 
-## 🖤 Sobre mí
+## 🕯️ Sobre mí
 
-> *"El mejor código no es el más complejo, sino el que otros pueden entender, mantener y mejorar."*
+Soy una desarrolladora apasionada por transformar ideas en soluciones digitales.
 
-Soy una desarrolladora apasionada por crear aplicaciones que resuelvan problemas reales mediante soluciones simples, eficientes y escalables.
+Me encanta crear aplicaciones que resuelvan problemas reales, escribir código limpio y construir proyectos que tengan propósito.
 
-Disfruto aprender nuevas tecnologías, asumir desafíos que me permitan crecer y participar en proyectos donde pueda aportar valor mientras sigo evolucionando como profesional.
+🌙 Disfruto enfrentar nuevos desafíos, explorar tecnologías, salir de mi zona de confort y convertir conceptos en experiencias funcionales.
 
-Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, backend y arquitectura de software.
+> *"El código no solo se escribe, se crea con intención."*
 
 ---
 
-# ⚡ Tecnologías
+## ⚡ Tecnologías
 
-### 👩‍💻 Lenguajes
+### 🖤 Lenguajes
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+◆ JavaScript
+◆ TypeScript
+◆ Python
+◆ Java
+◆ SQL
 
-### 🎨 Frontend
+### 🌌 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
+◆ React
+◆ Next.js
+◆ HTML5
+◆ CSS3
+◆ Tailwind CSS
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-</p>
+◆ Node.js
+◆ Express
+◆ NestJS
 
-### 🗄️ Bases de Datos
+### 🗄️ Bases de datos
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
+◆ PostgreSQL
+◆ MySQL
+◆ MongoDB
 
-### 🛠 Herramientas
+### 🕸️ Herramientas
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode"/>
-</p>
-
----
-
-# 📊 GitHub
-
-> **Reemplaza `TU_USUARIO` por tu usuario de GitHub.**
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
+◆ Git & GitHub
+◆ Docker
+◆ Linux
+◆ Postman
+◆ Figma
 
 ---
 
-# 🌱 Actualmente
+## 🌱 Actualmente
 
-- 📚 Aprendiendo nuevas tecnologías y mejores prácticas.
-- 🚀 Desarrollando proyectos personales.
-- 🤝 Colaborando en proyectos para seguir creciendo.
-- 💡 Interesada en Desarrollo Web, Backend, Inteligencia Artificial y Arquitectura de Software.
-
----
-
-# 🚀 Proyectos Destacados
-
-⭐ Aquí puedes fijar tus mejores repositorios para mostrar tus proyectos más importantes.
+☾ Aprendiendo nuevas tecnologías y mejores prácticas.
+☾ Creando proyectos personales para mejorar mis habilidades.
+☾ Explorando desarrollo web, backend, inteligencia artificial y arquitectura de software.
+☾ Buscando constantemente nuevas formas de crecer como desarrolladora.
 
 ---
 
-# 📫 Contacto
+## 🖤 Proyectos destacados
 
-💼 **LinkedIn:** https://linkedin.com/in/TU_USUARIO
+Mis proyectos representan mi evolución como desarrolladora:
 
-🌐 **Portfolio:** https://TU_PORTFOLIO.com
-
-📧 **Email:** tucorreo@ejemplo.com
+✦ Ideas convertidas en código.
+✦ Problemas convertidos en soluciones.
+✦ Aprendizaje convertido en experiencia.
 
 ---
 
-<div align="center">
+## 📫 Contacto
 
-## 🌙 Filosofía
+🕯️ LinkedIn: TU_LINKEDIN
+🌑 Portfolio: TU_PORTFOLIO
+✉️ Email: TU_EMAIL
 
-*"Cada proyecto representa una nueva oportunidad para aprender, mejorar y crear algo con impacto."*
+---
 
-### ⚡ **Siempre aprendiendo. Siempre construyendo.**
+☾ "Siempre aprendiendo. Siempre construyendo." ☽
 
-🖤 Gracias por visitar mi perfil.
+🖤 ⚡ 🌙
 
-</div>
-```
+---
+
+
+
